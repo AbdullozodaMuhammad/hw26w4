@@ -337,7 +337,7 @@ h2 {
     box-shadow: 0 10px 20px #00000025;
 }
 
-/* .callback {
+.callback {
     margin: 100px 50px;
     min-height: 280px;
     background: #222;
@@ -412,7 +412,7 @@ h2 {
     align-self: flex-end;
 }
 
-.footer {
+/* .footer {
     background: #259c5b;
     color: white;
     padding: 50px;

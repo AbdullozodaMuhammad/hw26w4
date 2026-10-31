@@ -250,7 +250,7 @@ h2 {
     margin-bottom: 12px;
 }
 
-/* .laboratory {
+.laboratory {
     background: #222;
     color: white;
     padding: 65px 50px;
@@ -310,7 +310,7 @@ h2 {
     align-self: flex-end;
 }
 
-.licenses {
+/* .licenses {
     padding: 70px 50px;
     background: #f2f6f8;
     overflow: hidden;

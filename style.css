@@ -73,7 +73,7 @@ button {
     font-size: 13px;
 }
 
-/* main {
+main {
     max-width: 1200px;
     margin: auto;
 }
@@ -201,7 +201,7 @@ h2 {
     color: #555;
 }
 
-.popular {
+/* .popular {
     margin-top: 100px;
 }
 

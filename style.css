@@ -412,7 +412,7 @@ h2 {
     align-self: flex-end;
 }
 
-/* .footer {
+.footer {
     background: #259c5b;
     color: white;
     padding: 50px;
@@ -653,4 +653,4 @@ h2 {
         font-size: 10px;
         line-height: 16px;
     }
-} */
+}

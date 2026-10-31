@@ -310,7 +310,7 @@ h2 {
     align-self: flex-end;
 }
 
-/* .licenses {
+.licenses {
     padding: 70px 50px;
     background: #f2f6f8;
     overflow: hidden;
@@ -337,7 +337,7 @@ h2 {
     box-shadow: 0 10px 20px #00000025;
 }
 
-.callback {
+/* .callback {
     margin: 100px 50px;
     min-height: 280px;
     background: #222;
